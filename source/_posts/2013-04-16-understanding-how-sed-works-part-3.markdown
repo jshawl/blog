@@ -12,6 +12,6 @@ tags:
 - vim
 ---
 
-I went ahead and recording part 3 after part 2. Enjoy!
+I went ahead and recorded part 3 after part 2. Enjoy!
 
 {% youtube P4ZcBrJ38I8 %}
